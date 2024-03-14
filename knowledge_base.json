@@ -1,0 +1,24 @@
+{
+    "questions":[
+        {
+            "question": "What's the capital of Italy?",
+            "answer": "Rome"
+        },
+        {
+            "question": "What's the colour of the sky?",
+            "answer": "Blue"
+        },
+        {
+            "question": "How are you?",
+            "answer": "I'm doing great."
+        },
+        {
+            "question": "How are you doing mate?",
+            "answer": "I'm doing good."
+        },
+        {
+            "question": "What's up?",
+            "answer": "Not much, what about you?"
+        }
+    ]
+}
